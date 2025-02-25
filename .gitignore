@@ -8,6 +8,8 @@ pnpm-debug.log*
 ### TypeScript ###
 *.tsbuildinfo
 
+serviceAccountKey.json
+
 dist/
 build/
 
